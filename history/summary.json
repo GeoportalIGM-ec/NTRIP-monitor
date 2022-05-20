@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 416,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "time": 393,
+    "timeDay": 393,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/regme-ip.espoch.edu.ec",
     "slug": "caster-ntrip-igm-espoch-backup",
     "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 6
+      "2022-05-20": 10
     }
   }
 ]
