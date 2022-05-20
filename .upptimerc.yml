@@ -19,13 +19,16 @@ status-website:
   name: Monitoreo NTRIP IGM Ecuador
   theme: light
   
+  
   introTitle: "**Geoportal IGM** monitoreo en tiempo real de los servicios CASTER de NTRIP del IGM Ecuador"
   introMessage: [Geoportal IGM](https://www.geoportaligm.gob.ec).
+  
   navbar:
     - title: Estado
       href: /NTRIP-monitor
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
+  
   i18n:
     activeIncidents: Incidentes activos
     allSystemsOperational: Todos los sistemas están operativos
