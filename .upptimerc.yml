@@ -1,31 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: GeoportalIGM-ec # Your GitHub organization or username, where this repository lives
+repo:  NTRIP-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+#  - name: Geoportal IGM
+#    url: https://www.geoportaligm.gob.ec
+  - name: CASTER NTRIP IGM (Principal)
+    url: http://regme-ip.igm.gob.ec:2101
+  - name: CASTER NTRIP IGM-ESPOCH (Backup)
+    url: http://regme-ip.espoch.edu.ec:2101
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /NTRIP-monitor
+  logoUrl: https://raw.githubusercontent.com/EdisonBravo/ntrip_track/master/assets/igm-icon.svg
+  name: TRACK NTRIP IGM Ecuador
+  theme: ocean
+  #introTitle: "**Geoportal IGM** página de monitoreo de CASTER de NTRIP del IGM Ecuador"
+  #introMessage: Geoportal IGM [Geoportal IGM](https://www.geoportaligm.gob.ec).
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Estado
+      href: /NTRIP-monitor
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Mirar https://upptime.js.org/docs/configuration
+
+# WorkflowSchedule por default
+#workflowSchedule:
+#  graphs: "0 0 * * *"
+#  responseTime: "0 23 * * *"
+#  staticSite: "0 1 * * *"
+#  summary: "0 0 * * *"
+#  updateTemplate: "0 0 * * *"
+#  updates: "0 3 * * *"
+#  uptime: "*/5 * * * *"
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "0 */1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
