@@ -23,7 +23,7 @@ status-website:
     allSystemsOperational: Todos los sistemas están operativos
   # ...
   introTitle: "**Geoportal IGM** monitoreo en tiempo real de los servicios CASTER de NTRIP del IGM Ecuador"
-  introMessage: Geoportal IGM [Geoportal IGM](https://www.geoportaligm.gob.ec).
+  introMessage: [Geoportal IGM](https://www.geoportaligm.gob.ec).
   navbar:
     - title: Estado
       href: /NTRIP-monitor
