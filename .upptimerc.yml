@@ -16,14 +16,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /NTRIP-monitor
   logoUrl: https://raw.githubusercontent.com/GeoportalIGM-ec/NTRIP-monitor/master/assets/igm-icon.svg
-  name: TRACK NTRIP IGM Ecuador
+  name: Monitoreo NTRIP IGM Ecuador
   theme: light
   i18n:
     activeIncidents: Incidentes activos
     allSystemsOperational: Todos los sistemas están operativos
   # ...
-  #introTitle: "**Geoportal IGM** página de monitoreo de CASTER de NTRIP del IGM Ecuador"
-  #introMessage: Geoportal IGM [Geoportal IGM](https://www.geoportaligm.gob.ec).
+  introTitle: "**Geoportal IGM** monitoreo en tiempo real de los servicios CASTER de NTRIP del IGM Ecuador"
+  introMessage: Geoportal IGM [Geoportal IGM](https://www.geoportaligm.gob.ec).
   navbar:
     - title: Estado
       href: /NTRIP-monitor
