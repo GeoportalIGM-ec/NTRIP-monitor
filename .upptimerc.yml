@@ -26,6 +26,9 @@ status-website:
       href: /NTRIP-monitor
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
+  i18n:
+    activeIncidents: Incidentes activos
+    allSystemsOperational: Todos los sistemas están operativos
 
 # Upptime also supports notifications, assigning issues, and more
 # Mirar https://upptime.js.org/docs/configuration
@@ -39,10 +42,6 @@ status-website:
 #  updateTemplate: "0 0 * * *"
 #  updates: "0 3 * * *"
 #  uptime: "*/5 * * * *"
-
-i18n:
-  activeIncidents: Incidentes activos
-  allSystemsOperational: Todos los sistemas están operativos
 
 workflowSchedule:
   graphs: "0 0 * * *"
