@@ -29,9 +29,9 @@ status-website:
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
   
-  i18n:
-    activeIncidents: Incidentes activos
-    allSystemsOperational: Todos los sistemas están operativos
+  #i18n:
+  #  activeIncidents: Incidentes activos
+  #  allSystemsOperational: Todos los sistemas están operativos
 
 # Upptime also supports notifications, assigning issues, and more
 # Mirar https://upptime.js.org/docs/configuration
