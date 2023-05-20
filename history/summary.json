@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/regme-ip.igm.gob.ec.ico",
     "slug": "caster-ntrip-igm-principal",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.15%",
-    "time": 591,
-    "timeDay": 753,
-    "timeWeek": 670,
-    "timeMonth": 651,
-    "timeYear": 591,
+    "uptimeYear": "97.16%",
+    "time": 592,
+    "timeDay": 696,
+    "timeWeek": 681,
+    "timeMonth": 655,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2023-04-18": 17,
       "2023-03-31": 29,
@@ -52,14 +52,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/regme-ip.espoch.edu.ec.ico",
     "slug": "caster-ntrip-igm-espoch-backup",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 568,
-    "timeDay": 525,
-    "timeWeek": 557,
+    "timeDay": 524,
+    "timeWeek": 556,
     "timeMonth": 540,
     "timeYear": 568,
     "dailyMinutesDown": {
@@ -80,8 +80,7 @@
       "2022-05-25": 872,
       "2022-05-24": 5,
       "2022-05-22": 462,
-      "2022-05-21": 1440,
-      "2022-05-20": 574
+      "2022-05-21": 1440
     }
   }
 ]
