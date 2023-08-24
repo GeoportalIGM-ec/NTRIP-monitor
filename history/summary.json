@@ -5,18 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/regme-ip.igm.gob.ec.ico",
     "slug": "caster-ntrip-igm-principal",
     "status": "down",
-    "uptime": "90.43%",
+    "uptime": "89.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.37%",
-    "time": 621,
+    "uptimeYear": "87.55%",
+    "time": 622,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2023-08-21": 23,
+      "2023-08-24": 22,
+      "2023-08-23": 1440,
+      "2023-08-22": 1440,
+      "2023-08-21": 1440,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
@@ -86,12 +89,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.62%",
-    "time": 589,
-    "timeDay": 652,
-    "timeWeek": 602,
+    "uptimeYear": "99.63%",
+    "time": 590,
+    "timeDay": 614,
+    "timeWeek": 611,
     "timeMonth": 602,
-    "timeYear": 589,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2023-08-18": 123,
       "2023-07-10": 972,
@@ -102,8 +105,7 @@
       "2023-04-08": 73,
       "2023-02-23": 21,
       "2023-01-13": 20,
-      "2022-09-08": 16,
-      "2022-08-22": 46
+      "2022-09-08": 16
     }
   }
 ]
