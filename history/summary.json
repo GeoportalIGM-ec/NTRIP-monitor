@@ -5,18 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/regme-ip.igm.gob.ec.ico",
     "slug": "caster-ntrip-igm-principal",
     "status": "down",
-    "uptime": "61.35%",
+    "uptime": "61.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.14%",
+    "uptimeYear": "26.09%",
     "time": 733,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-08-29": 31,
+      "2024-08-31": 31,
+      "2024-08-30": 1440,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -293,8 +295,7 @@
       "2023-09-25": 87,
       "2023-09-22": 101,
       "2023-09-19": 58,
-      "2023-09-14": 21,
-      "2023-09-01": 83
+      "2023-09-14": 21
     }
   },
   {
@@ -303,18 +304,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/regme-ip.espoch.edu.ec.ico",
     "slug": "caster-ntrip-igm-espoch-backup",
     "status": "down",
-    "uptime": "68.69%",
+    "uptime": "68.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.21%",
-    "time": 507,
+    "uptimeYear": "29.66%",
+    "time": 505,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 506,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-08-29": 45,
+      "2024-08-31": 36,
+      "2024-08-30": 1440,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -585,8 +588,7 @@
       "2023-09-29": 1266,
       "2023-09-28": 534,
       "2023-09-25": 411,
-      "2023-09-24": 185,
-      "2023-09-01": 22
+      "2023-09-24": 185
     }
   }
 ]
